@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Adrian
 
-🎯 Engenheiro de Dados |Apaixonado por Cloud, Banco de Dados e Automação
+🎯 Data Enmgineer|Apaixonado por Cloud, Banco de Dados e Automação
 
 🛠️ Skills:
 - 🐍 Python | SQL | Shell Script
